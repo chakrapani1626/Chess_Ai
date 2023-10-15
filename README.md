@@ -1,4 +1,5 @@
 Overview
+
 The goal of this project is to develop a sophisticated Chess game that includes all the intricate rules such as En Passant, Castling, and Pawn Promotion. Additionally, the project aims to integrate an AI model capable of making intelligent Chess moves. The Chess game will be built with a user-friendly interface for ease of interaction.
 
 Key Features:
